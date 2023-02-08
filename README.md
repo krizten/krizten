@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! <img src="hi.gif" width="30"/></h1>
 Hi, I'm <a href="https://www.linkedin.com/in/christianeffiong/">Christian Effiong</a>, a software engineer with over five years of experience working on full-stack web and cross-platform mobile technologies. At my spare time, I contribute to the coding community by mentoring on <a href="https://codingcoach.io/" target="_blank" rel="noopener">Coding Coach</a> and I am also a former volunteer at <a href="http://gracitfoundation.org/" target="_blank" rel="noopener">Gracit Technological Foundation</a>.
 
-<br>
+ <br><br>
 
 - 🔭 Currently, I'm working on building scalable engineering projects with high quality user experience.
 - 🌱 Once in a while, I play around <a href="https://www.figma.com/file/UfySW0XrNFQNtSjXECehwz/TeamUp-Project?node-id=0%3A1&t=K2lmvl6W5BDxIjHv-1" target="_blank" rel="noopener">designing with Figma</a>, to learn something outside of engineering.
