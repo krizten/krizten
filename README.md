@@ -3,7 +3,7 @@ Hi, I'm <a href="https://www.linkedin.com/in/christianeffiong/">Christian Effion
 
  <br><br>
 
-- 🔭 Currently, I'm working on building scalable engineering projects with high quality user experience....++--
+- 🔭 Currently, I'm working on building scalable engineering projects with high quality user experience.
 - 🌱 Once in a while, I play around <a href="https://www.figma.com/file/UfySW0XrNFQNtSjXECehwz/TeamUp-Project?node-id=0%3A1&t=K2lmvl6W5BDxIjHv-1" target="_blank" rel="noopener">designing with Figma</a>, to learn something outside of engineering.
 - 💬 Ask me about Node, React, Python, Java, Golang, React Native, ETL Automation (Scrapy, Selenium, Puppeteer)
 - 📫 How to reach me: <a href="mailto:mailstochristian@gmail.com" target="_blank" rel="noopener">mailstochristian[at]gmail.com</a>
